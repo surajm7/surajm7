@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajm7&label=Profile%20views&color=0e75b6&style=flat" alt="surajm7" /> </p>
 
-- 🌱 I’m currently exploring MERN Stack
+- 🌱 I’m currently exploring **MERN Stack**
 
 - 👯 I’m looking to collaborate on **React**
 
