@@ -3,7 +3,7 @@
 <h3 align="center">I’m interested in  Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajm7&label=Profile%20views&color=0e75b6&style=flat" alt="surajm7" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajm7&label=Profile%20views&color=0e75b6&style=flat" alt="surajm7" /> </p> -->
 
 - 🌱 I’m currently exploring **MERN Stack**
 - 🌱 I’m currently Learning  **Backend Stack(NodeJs)**
