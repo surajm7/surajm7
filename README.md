@@ -9,7 +9,7 @@
 - 🌱 I’m currently Learning  **Backend Stack(NodeJs)**
 
 - 👯 I’m looking to collaborate on **React**
-- 📄 Know about my experiences [Resume - Pratik Mahankal](https://drive.google.com/file/d/1vXWuXLVrPB14imRbBKKLBVGqCa8DIrlO/view)
+- 📄 Know about my experiences [Resume - Suraj Gupta](https://drive.google.com/file/d/1vXWuXLVrPB14imRbBKKLBVGqCa8DIrlO/view)
 
 - 📫 How to reach me **guptasurajm07@gmail.com**
 
