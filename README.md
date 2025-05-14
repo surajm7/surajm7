@@ -1,7 +1,7 @@
 <img src="https://github.com/Anu26092002/Anu26092002/blob/output/github-contribution-grid-snake.gif" alt="snake gif" width="auto"/>
 
 <h1 align="center">Hey! 👋, I'm Suraj</h1>
-<h3 align="center">A  Full Stack JavaScript Engineer building dynamic and scalable web applications</h3>
+<h3 align="center">A  Full Stack Engineer building dynamic and scalable web applications</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
